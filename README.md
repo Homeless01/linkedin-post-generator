@@ -1,2 +1,2 @@
 # linkedin-post-generator
-This is a Gen Ai project, and this will help you to generate linkedin post 
+AI-powered LinkedIn post generator using LangChain and Groq.
